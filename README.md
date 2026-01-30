@@ -1,6 +1,6 @@
 # Neural Playground Core POC
 
-![Neural Playground Screenshot](../.gemini/antigravity/brain/0afac718-5c87-4d02-abf8-31e8d139b067/neural_playground_screenshot_1769758223544.png)
+![Neural Playground Screenshot](NeuralPlayground.png)
 
 **Neural Playground** is an interactive iOS application designed to visualize the internal mechanics of a neural network training on the XOR problem.
 
